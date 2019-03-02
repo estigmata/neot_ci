@@ -1,6 +1,7 @@
 plugins {
     id 'war'
 	id 'org.gretty' version '2.2.0'
+    id "com.github.johnrengelman.shadow" version "5.0.0"
 }
 
 repositories {
